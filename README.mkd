@@ -1,0 +1,7 @@
+Redis pub/sub test
+------------------
+
+This package includes two programs, which is
+
+1. Node.js redis publisher
+2. Java redis reader
